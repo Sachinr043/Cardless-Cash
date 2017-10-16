@@ -1,0 +1,15 @@
+**************************************************************************************
+
+1.CONNECT THE HARDWARE
+2.HARDWARE FOUND MENU WILL APPEAR
+3.BROWSE THE USB DRIVERS  FROM CD
+4.FINISH THE INSTALLATION HARDWARE IS READY TO USE 
+5.RED LED will be on after sucessful Installation
+
+
+**************************************************************************************
+For Support contact us support@nskelectronics.com
+For software downloads visit us at www.nskelectronics.com
+
+
+
